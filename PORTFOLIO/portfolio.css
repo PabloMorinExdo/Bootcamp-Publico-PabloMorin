@@ -16,7 +16,7 @@
 }
 
 .main_content {
-    height: 880px;
+    height: 900px;
     background: rgb(37,20,25);
     background: linear-gradient(180deg, rgba(37,20,25,1) 0%, rgba(124,124,124,1) 51%, rgba(37,20,25,1) 100%);
     padding: 10px;
@@ -38,7 +38,8 @@
 .presentation {
     margin-left: 20px;
     padding-bottom: 30px;
-    background-color: white;
+    background: rgb(255,255,255);
+    background: linear-gradient(52deg, rgba(255,255,255,1) 46%, rgba(224,151,151,1) 100%);
 }
 
 .presentation .title {
@@ -86,7 +87,7 @@ a {
     width: 60px;
 }
 .cards p {
-    height: 180px;
+    height: 190px;
     padding: 0px 10px 0px 10px;
 }
 .cards h3 {
